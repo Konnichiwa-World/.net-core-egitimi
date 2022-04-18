@@ -34,4 +34,4 @@ catch (FormatException ex)
 catch (OverflowException ex)
 {
     Console.WriteLine("Error : Çok yüsek veya çok düşük değer girdiniz " + ex);
-}
+} //Başkasının kodlarını değiştirebiliyorum :D Sabotaja açık bir açık bu. Kapatılmalı. 
