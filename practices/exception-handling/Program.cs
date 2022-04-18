@@ -34,4 +34,4 @@ catch (FormatException ex)
 catch (OverflowException ex)
 {
     Console.WriteLine("Error : Çok yüsek veya çok düşük değer girdiniz " + ex);
-}
+} //Yok değiştirilmiyormuş, github.'ta yeniyim. Çok pardon. Yazılımı çalıştırdım ancak hata var, çalışmıyor ancak alınteri için +1 puan vereceğim.
